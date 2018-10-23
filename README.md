@@ -1,6 +1,7 @@
 # projectMatrix
 
-School project of second-year for the course of Microcontrollers in group of two.
+Second-year school project of for the course of Microcontrollers in a group of two.
+
 Working on an STK300 developement board (Atmega 128) and coding only in AVR_ASM, we were asked to give us a project and to implement it during the next month, being passionate with LEDs, my team mate and I decided to work on an rgb matrix 8x8 of WS2812B LEDs, driven using the protocol FastLED, and try to see what we could achieve. 
 
 At the end our program was able to perform those 4 tasks:
