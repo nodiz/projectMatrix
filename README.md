@@ -13,6 +13,4 @@ At the end our program was able to perform those 4 tasks:<br />
 
 All the code is assembly for the Atmega and inside you can find an interesting way of implementing a driver (made from scratch by us) capable of replacing what FastLED is for Arduino.<br />
 
-Hope that could be useful to somebody.<br />
-
 If you have any question, feel free to contact me at: ssnnca@gmail.com<br />
